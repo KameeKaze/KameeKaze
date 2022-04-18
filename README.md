@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center"> Hi, I am Kamee Kaze </h1>
 
-<!--
-**KameeKaze/KameeKaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">  Hacker · Coder · Gamer · Student </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+# Programming Languages
+
+<img src="https://img.shields.io/badge/Python-ffc107?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bash-3e484a?style=for-the-badge&logo=gnubash&logoColor=green">
+<img src="https://img.shields.io/badge/Golang-5ac9e2?style=for-the-badge&logo=go&logoColor=white">
+
+# Hobbies
+
+<img src="https://img.shields.io/badge/Arduino-00989d?style=for-the-badge&logo=arduino&logoColor=orange">
+<img src="https://img.shields.io/badge/Tryhackme-c11111?style=for-the-badge&logo=tryhackme&logoColor=black">
+<img src="https://img.shields.io/badge/Hackthebox-1e2126?style=for-the-badge&logo=hackthebox&logoColor=green">
+<img src="https://img.shields.io/badge/Gaming-004098?style=for-the-badge&logo=playstation&logoColor=white">
+
+# Tools
+<img src="https://img.shields.io/badge/GitHub-f3521e?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-feb101?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Artix-1793D1?style=for-the-badge&logo=artixlinux&logoColor=white">
