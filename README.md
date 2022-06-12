@@ -23,7 +23,6 @@
 
 # Tools
 <img src="https://img.shields.io/badge/GitHub-f3521e?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-feb101?style=for-the-badge&logo=linux&logoColor=black">
-
-<img src="https://img.shields.io/badge/Artix-1793D1?style=for-the-badge&logo=artixlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=blue">
